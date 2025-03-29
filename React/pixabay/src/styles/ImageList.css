@@ -2,6 +2,10 @@
   width: 200px;
 }
 
+.image-list {
+  position: relative;
+}
+
 .image-list .ui.medium.image {
   width: 25%;
   padding: 0 3px 3px;
